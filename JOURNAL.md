@@ -14,7 +14,6 @@ What I need:
 
 - Nickel strip
 - High voltage generator
-- Metal round ring
 - Copper sulfate
 - Copper metal sheet 
 - Graphite spray/powder
