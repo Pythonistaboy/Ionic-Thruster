@@ -17,7 +17,7 @@ What I need:
 - Metal round ring
 - Copper sulfate
 - Copper metal sheet 
-- Graphite spray
+- Graphite spray/powder
 - Lithium Ion Battery
 - 3D printed parts (design)
 - Switch
