@@ -12,5 +12,8 @@ fan would work. I am also just genuniley facinated by electricity and its ways h
 
 No PCBS were used in this project.
 
-BILL OF MATERIALS (also uploaded in github repo):
-<img width="1670" height="131" alt="Screenshot 2025-12-01 at 1 09 34 pm" src="https://github.com/user-attachments/assets/fa061f81-7cf1-4d26-ab74-21ac9363088c" />
+BILL OF MATERIALS (also uploaded in github repo): 
+<img width="3340" height="422" alt="image" src="https://github.com/user-attachments/assets/c9ba634c-0bf2-42ef-9ed3-b5d1e2ff9e14" />
+
+
+NOTE: ALL prices in csv are usd however in cart they should be in AUD as I purchased in Australia.
