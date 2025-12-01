@@ -1,0 +1,1 @@
+My bluepring bot stopped syncing and adding my journal.md. Im not sure why and when I asked on slack blueprint-support, they said it was fine, as long as you have journal in the blueprint website. And I do. You can find it on the blupeint page.
