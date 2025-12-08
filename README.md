@@ -1,8 +1,6 @@
 IONIC PLASMA THRUSTER:
 
-I wish to create an Ionic Plasma Thruster. This is a high voltage generator, ionises air. The ions collide and push air molecules. The collision creates a breeze/thrust - ionic wind.
-I made the project because personally I think it is very cool to create wind and movement of air molecules without anything phsycically moving such as propellers, like a normal 
-fan would work. I am also just genuniley facinated by electricity and its ways hence I decided to create this project.
+I want to create an Ionic Plasma Thruster. This device is a high-voltage generator that ionises air. The ions then collide with and push surrounding air molecules, and these collisions create a breeze or thrust - known as ionic wind. I made this project because I think it is very cool to generate wind and movement of air molecules without anything physically moving, unlike a normal fan with propellers. I am also genuinely fascinated by electricity and how it works, which is why I decided to build this project.
 
 <img width="953" height="610" alt="Screenshot 2025-12-01 at 1 06 25 pm" src="https://github.com/user-attachments/assets/15972acd-09e6-4552-9ede-1c6d69727d6a" />
 <img width="784" height="776" alt="Screenshot 2025-12-01 at 1 07 26 pm" src="https://github.com/user-attachments/assets/15782079-44ce-46ed-982d-586e8bd1c3a5" />
